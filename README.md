@@ -12,7 +12,7 @@ A modern web application for tracking meal calories and nutritional information 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/meal-calorie-frontend-{your-name}.git
+git clone https://github.com/dennis369/meal-calorie-frontend-dennis.git
 cd meal-calorie
 ```
 
@@ -79,8 +79,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## Hosted Application
 
-**Live Demo**: [Your Vercel deployment URL will be added here after deployment]
-
+**Live Demo**:
+https://meal-calorie-frontend-dennis-kohrua4w3-dennis369s-projects.vercel.app/
 ## Development
 
 To modify the application:

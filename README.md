@@ -67,7 +67,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## Screenshots
 
-*[Add screenshots of the application here]*
+<img width="1903" height="1896" alt="screencapture-localhost-3000-2026-01-18-20_49_03" src="https://github.com/user-attachments/assets/401f0275-bee8-4e33-bae2-bbe711e8959d" />
+<img width="1903" height="1040" alt="screencapture-localhost-3000-register-2026-01-18-20_49_15" src="https://github.com/user-attachments/assets/1aa9c54b-8aa3-425d-9670-7cc7d8a0b180" />
+<img width="1903" height="902" alt="screencapture-localhost-3000-login-2026-01-18-20_49_25" src="https://github.com/user-attachments/assets/ef4597ad-b4d9-4069-b56c-2510e4eddcc9" />
+<img width="1903" height="1455" alt="screencapture-localhost-3000-dashboard-2026-01-18-20_49_44" src="https://github.com/user-attachments/assets/bbad31f8-b1d4-4735-a666-7816559a3017" />
+
 - Login page
 - Dashboard
 - Meal search interface
